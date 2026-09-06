@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.pptx
+*.ppt
+*.pdf
+artifacts/
+node_modules/
+presentation.js
+.cache/
+.env
+*.log
+*_corpus/
+**/*corpus*
